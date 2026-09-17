@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/jefferywang">
-    <img src="https://skillicons.dev/icons?i=arch,linux,go,java,js,lua,php,py,rust,css,html,md,actix,laravel,spring,gradle,maven,elasticsearch,mysql,redis,sqlite,ansible,cloudflare,docker,grafana,kubernetes,nginx,bash,git,github,gmail,latex,tauri,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,go,java,js,lua,php,py,rust,css,html,md,actix,laravel,spring,gradle,maven,elasticsearch,mysql,redis,sqlite,ansible,cloudflare,docker,grafana,kubernetes,nginx,bash,git,github,gmail,latex,tauri,vscode" />
   </a>
 </p>
 
